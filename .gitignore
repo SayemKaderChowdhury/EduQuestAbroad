@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Claude internal
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Reference/design files (not part of the website)
+*.docx
+*.xlsx
+*.pptx
+Edu Quest Abroad.docx
+Header Section Example.jpeg
+10 Minute School Consultancy Inspiration Right Side.png
+How we can help Inspiration.png
