@@ -26,6 +26,7 @@
       <li><a href="index.html"            data-i18n="nav-home">হোম</a></li>
       <li><a href="about.html"            data-i18n="nav-about">আমাদের সম্পর্কে</a></li>
       <li><a href="services.html"         data-i18n="nav-services">আমাদের সেবা</a></li>
+      <li><a href="pricing.html"          data-i18n="nav-pricing">মূল্য তালিকা</a></li>
       <li><a href="success-stories.html"  data-i18n="nav-stories">সাফল্যের গল্প</a></li>
       <li><a href="top-states.html"       data-i18n="nav-states">শীর্ষ রাজ্য</a></li>
       <li><a href="contact.html"          data-i18n="nav-contact" class="active">যোগাযোগ</a></li>
@@ -46,6 +47,7 @@
   <a href="index.html"           data-i18n="nav-home">হোম</a>
   <a href="about.html"           data-i18n="nav-about">আমাদের সম্পর্কে</a>
   <a href="services.html"        data-i18n="nav-services">আমাদের সেবা</a>
+  <a href="pricing.html"         data-i18n="nav-pricing">মূল্য তালিকা</a>
   <a href="success-stories.html" data-i18n="nav-stories">সাফল্যের গল্প</a>
   <a href="top-states.html"      data-i18n="nav-states">শীর্ষ রাজ্য</a>
   <a href="contact.html"         data-i18n="nav-contact">যোগাযোগ</a>
@@ -59,7 +61,7 @@
 <section class="page-hero">
   <div class="container">
     <h1 data-i18n="nav-contact">যোগাযোগ করুন</h1>
-    <p>আপনার স্বপ্নের যাত্রা শুরু হোক একটি কথোপকথন দিয়ে — বিনামূল্যে।</p>
+    <p data-i18n="contact-hero-sub">আপনার স্বপ্নের যাত্রা শুরু হোক একটি কথোপকথন দিয়ে — বিনামূল্যে।</p>
     <div class="breadcrumb">
       <a href="index.html" data-i18n="nav-home">হোম</a>
       <span>›</span>
@@ -75,31 +77,23 @@
 
       <!-- Left: Info -->
       <div class="contact-info reveal from-left">
-        <span class="section-eyebrow">আমাদের সাথে কথা বলুন</span>
-        <h3>আপনার স্বপ্নের পথে প্রথম পদক্ষেপ নিন</h3>
-        <p>আমাদের অভিজ্ঞ পরামর্শদাতারা আপনার প্রশ্নের উত্তর দিতে এবং আপনার জন্য সেরা পথ নির্ধারণ করতে প্রস্তুত। প্রথম পরামর্শটি সম্পূর্ণ বিনামূল্যে।</p>
-
-        <div class="info-item">
-          <div class="info-icon"><i class="fas fa-map-marker-alt"></i></div>
-          <div class="info-txt">
-            <h4>আমাদের ঠিকানা</h4>
-            <p>123 Main Street, Suite 100<br/>New York, NY 10001, USA</p>
-          </div>
-        </div>
+        <span class="section-eyebrow" data-i18n="contact-info-eye">আমাদের সাথে কথা বলুন</span>
+        <h3 data-i18n="contact-info-h3">আপনার স্বপ্নের পথে প্রথম পদক্ষেপ নিন</h3>
+        <p data-i18n="contact-info-p">আমাদের অভিজ্ঞ পরামর্শদাতারা আপনার প্রশ্নের উত্তর দিতে এবং আপনার জন্য সেরা পথ নির্ধারণ করতে প্রস্তুত। প্রথম পরামর্শটি সম্পূর্ণ বিনামূল্যে।</p>
 
         <div class="info-item">
           <div class="info-icon"><i class="fas fa-phone"></i></div>
           <div class="info-txt">
-            <h4>ফোন নম্বর</h4>
-            <p>+1 (555) 123-4567<br/>+880 1700-000000 (বাংলাদেশ)</p>
+            <h4 data-i18n="contact-phone-h">ফোন নম্বর</h4>
+            <p>+880 1700-000000 <span data-i18n="contact-bd-label">(বাংলাদেশ)</span></p>
           </div>
         </div>
 
         <div class="info-item">
           <div class="info-icon"><i class="fas fa-envelope"></i></div>
           <div class="info-txt">
-            <h4>ইমেইল</h4>
-            <p>info@eduquestabroad.com<br/>apply@eduquestabroad.com</p>
+            <h4 data-i18n="contact-email-h">ইমেইল</h4>
+            <p>inquiry.eduquest@gmail.com</p>
           </div>
         </div>
 
@@ -107,15 +101,15 @@
           <div class="info-icon"><i class="fab fa-whatsapp"></i></div>
           <div class="info-txt">
             <h4>WhatsApp</h4>
-            <p>+1 (555) 123-4567<br/>সরাসরি চ্যাট করুন</p>
+            <p><a href="https://wa.me/8801700000000" target="_blank" style="color:var(--maroon);">+880 1700-000000</a><br/><span data-i18n="contact-wa-chat">সরাসরি চ্যাট করুন</span></p>
           </div>
         </div>
 
         <div class="info-item">
           <div class="info-icon"><i class="fas fa-clock"></i></div>
           <div class="info-txt">
-            <h4>অফিস সময়</h4>
-            <p>সোম — শুক্র: সকাল ৯টা — রাত ৯টা (EST)<br/>শনি: সকাল ১০টা — বিকাল ৬টা</p>
+            <h4 data-i18n="contact-hours-h">অফিস সময়</h4>
+            <p data-i18n="contact-hours-p">সোম — শুক্র: সকাল ৯টা — রাত ৯টা<br/>শনি: সকাল ১০টা — বিকাল ৬টা</p>
           </div>
         </div>
 
@@ -132,70 +126,71 @@
 
       <!-- Right: Form -->
       <div class="contact-form-wrap reveal from-right">
-        <h3>📅 বিনামূল্যে পরামর্শ বুক করুন</h3>
+        <h3 data-i18n="contact-form-h">📅 বিনামূল্যে পরামর্শ বুক করুন</h3>
 
-        <form id="contact-form" novalidate>
+        <form id="contact-form" action="mailto:inquiry.eduquest@gmail.com" method="post" enctype="text/plain" novalidate>
           <div class="form-row">
             <div class="form-group">
-              <label>আপনার নাম *</label>
-              <input type="text" placeholder="পুরো নাম লিখুন" required />
+              <label data-i18n="form-name-label">আপনার নাম *</label>
+              <input type="text" data-i18n-ph="form-name-ph" placeholder="পুরো নাম লিখুন" required />
             </div>
             <div class="form-group">
-              <label>ইমেইল *</label>
+              <label data-i18n="form-email-label">ইমেইল *</label>
               <input type="email" placeholder="example@gmail.com" required />
             </div>
           </div>
 
           <div class="form-row">
             <div class="form-group">
-              <label>ফোন নম্বর *</label>
+              <label data-i18n="form-phone-label">ফোন নম্বর *</label>
               <input type="tel" placeholder="+880 17XX-XXXXXX" required />
             </div>
             <div class="form-group">
-              <label>আপনি কীসের জন্য আগ্রহী?</label>
+              <label data-i18n="form-interest-label">আপনি কীসের জন্য আগ্রহী?</label>
               <select>
-                <option value="">বিষয় নির্বাচন করুন</option>
-                <option>বিশ্ববিদ্যালয় ভর্তি গাইডেন্স</option>
-                <option>ভিসা আবেদন সহায়তা</option>
-                <option>SOP ও রচনা লেখা</option>
-                <option>স্কলারশিপ সহায়তা</option>
-                <option>সাধারণ পরামর্শ</option>
+                <option value="" data-i18n="form-select-default">বিষয় নির্বাচন করুন</option>
+                <option data-i18n="svc-1-title">বিশ্ববিদ্যালয় ভর্তি গাইডেন্স</option>
+                <option data-i18n="svc-2-title">ভিসা আবেদন সহায়তা</option>
+                <option data-i18n="svc-3-title">SOP ও রচনা লেখা</option>
+                <option data-i18n="svc-4-title">স্কলারশিপ সহায়তা</option>
+                <option data-i18n="mock-title">মক ভিসা ইন্টারভিউ কোচিং</option>
+                <option data-i18n="form-general-consult">সাধারণ পরামর্শ</option>
               </select>
             </div>
           </div>
 
           <div class="form-group">
-            <label>আপনার শিক্ষাগত যোগ্যতা</label>
+            <label data-i18n="form-edu-label">আপনার শিক্ষাগত যোগ্যতা</label>
             <select>
-              <option value="">নির্বাচন করুন</option>
+              <option value="" data-i18n="form-select-default">নির্বাচন করুন</option>
               <option>SSC / O Level</option>
               <option>HSC / A Level</option>
-              <option>স্নাতক (অধ্যয়নরত)</option>
-              <option>স্নাতক (সম্পন্ন)</option>
-              <option>স্নাতকোত্তর</option>
+              <option data-i18n="form-undergrad-ongoing">স্নাতক (অধ্যয়নরত)</option>
+              <option data-i18n="form-undergrad-done">স্নাতক (সম্পন্ন)</option>
+              <option data-i18n="form-masters">স্নাতকোত্তর</option>
             </select>
           </div>
 
           <div class="form-group">
-            <label>আপনার লক্ষ্য বিশ্ববিদ্যালয় বা রাজ্য (ঐচ্ছিক)</label>
-            <input type="text" placeholder="যেমন: University of Michigan, New York..." />
+            <label data-i18n="form-target-label">আপনার লক্ষ্য বিশ্ববিদ্যালয় বা রাজ্য (ঐচ্ছিক)</label>
+            <input type="text" data-i18n-ph="form-target-ph" placeholder="যেমন: University of Michigan, New York..." />
           </div>
 
           <div class="form-group">
-            <label>আপনার বার্তা *</label>
-            <textarea placeholder="আপনার প্রশ্ন বা প্রয়োজনীয়তা বিস্তারিত লিখুন..." required></textarea>
+            <label data-i18n="form-msg-label">আপনার বার্তা *</label>
+            <textarea data-i18n-ph="form-msg-ph" placeholder="আপনার প্রশ্ন বা প্রয়োজনীয়তা বিস্তারিত লিখুন..." required></textarea>
           </div>
 
           <!-- Anti-spam honeypot (hidden) -->
           <input type="text" name="website" style="display:none;" tabindex="-1" autocomplete="off" />
 
           <button type="submit" class="btn btn-gold btn-lg" style="width:100%;justify-content:center;">
-            <i class="fas fa-paper-plane"></i> বার্তা পাঠান
+            <i class="fas fa-paper-plane"></i> <span data-i18n="form-submit-btn">বার্তা পাঠান</span>
           </button>
 
           <div id="form-success" class="form-success">
             <i class="fas fa-check-circle" style="font-size:1.5rem;margin-bottom:8px;display:block;"></i>
-            আপনার বার্তা সফলভাবে পাঠানো হয়েছে! আমরা ২৪ ঘণ্টার মধ্যে যোগাযোগ করব।
+            <span data-i18n="form-success-msg">আপনার বার্তা সফলভাবে পাঠানো হয়েছে! আমরা ২৪ ঘণ্টার মধ্যে যোগাযোগ করব।</span>
           </div>
         </form>
       </div>
@@ -220,8 +215,8 @@
 <section class="section-pad" style="background:var(--beige);">
   <div class="container">
     <div class="text-center">
-      <span class="section-eyebrow">সাধারণ প্রশ্নাবলী</span>
-      <h2 class="section-title">প্রায়ই জিজ্ঞাসিত প্রশ্ন</h2>
+      <span class="section-eyebrow" data-i18n="faq-eye">সাধারণ প্রশ্নাবলী</span>
+      <h2 class="section-title" data-i18n="faq-title">প্রায়ই জিজ্ঞাসিত প্রশ্ন</h2>
     </div>
     <div style="max-width:800px;margin:30px auto;display:flex;flex-direction:column;gap:16px;">
 
@@ -229,8 +224,8 @@
         <div style="display:flex;gap:12px;align-items:flex-start;">
           <div class="feat-icon"><i class="fas fa-question"></i></div>
           <div>
-            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;">প্রথম পরামর্শ কি সত্যিই বিনামূল্যে?</h4>
-            <p style="font-size:.87rem;color:var(--gray);">হ্যাঁ, আমাদের প্রাথমিক পরামর্শ সেশনটি সম্পূর্ণ বিনামূল্যে। এতে আপনার প্রোফাইল মূল্যায়ন, বিশ্ববিদ্যালয় পরামর্শ এবং রোডম্যাপ আলোচনা অন্তর্ভুক্ত।</p>
+            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;" data-i18n="faq-q1">প্রথম পরামর্শ কি সত্যিই বিনামূল্যে?</h4>
+            <p style="font-size:.87rem;color:var(--gray);" data-i18n="faq-a1">হ্যাঁ, আমাদের প্রাথমিক পরামর্শ সেশনটি সম্পূর্ণ বিনামূল্যে। এতে আপনার প্রোফাইল মূল্যায়ন, বিশ্ববিদ্যালয় পরামর্শ এবং রোডম্যাপ আলোচনা অন্তর্ভুক্ত।</p>
           </div>
         </div>
       </div>
@@ -239,8 +234,8 @@
         <div style="display:flex;gap:12px;align-items:flex-start;">
           <div class="feat-icon"><i class="fas fa-question"></i></div>
           <div>
-            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;">আমি কি অনলাইনে পরামর্শ নিতে পারব?</h4>
-            <p style="font-size:.87rem;color:var(--gray);">অবশ্যই! আমরা Zoom, Google Meet বা WhatsApp ভিডিও কলের মাধ্যমে অনলাইন পরামর্শ দিই। বাংলাদেশ থেকেও সহজেই আমাদের সেবা নিতে পারবেন।</p>
+            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;" data-i18n="faq-q2">আমি কি অনলাইনে পরামর্শ নিতে পারব?</h4>
+            <p style="font-size:.87rem;color:var(--gray);" data-i18n="faq-a2">অবশ্যই! আমরা Zoom, Google Meet বা WhatsApp ভিডিও কলের মাধ্যমে অনলাইন পরামর্শ দিই। বাংলাদেশ থেকেও সহজেই আমাদের সেবা নিতে পারবেন।</p>
           </div>
         </div>
       </div>
@@ -249,8 +244,8 @@
         <div style="display:flex;gap:12px;align-items:flex-start;">
           <div class="feat-icon"><i class="fas fa-question"></i></div>
           <div>
-            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;">ভিসা রিজেকশন হলে কি হবে?</h4>
-            <p style="font-size:.87rem;color:var(--gray);">আমাদের ৯৮% ভিসা সাফল্যের হার রয়েছে। তবে যদি কোনো কারণে রিজেকশন হয়, আমরা বিনামূল্যে পুনরায় আবেদনে সহায়তা করব।</p>
+            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;" data-i18n="faq-q3">ভিসা রিজেকশন হলে কি হবে?</h4>
+            <p style="font-size:.87rem;color:var(--gray);" data-i18n="faq-a3">আমাদের ৯৮% ভিসা সাফল্যের হার রয়েছে। তবে যদি কোনো কারণে রিজেকশন হয়, আমরা বিনামূল্যে পুনরায় আবেদনে সহায়তা করব।</p>
           </div>
         </div>
       </div>
@@ -259,8 +254,8 @@
         <div style="display:flex;gap:12px;align-items:flex-start;">
           <div class="feat-icon"><i class="fas fa-question"></i></div>
           <div>
-            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;">কত দিনে প্রক্রিয়া সম্পন্ন হয়?</h4>
-            <p style="font-size:.87rem;color:var(--gray);">সাধারণত বিশ্ববিদ্যালয়ের ডেডলাইনের উপর নির্ভর করে ৩-৬ মাস সময় লাগে। তবে জরুরি ক্ষেত্রে আমরা দ্রুত প্রক্রিয়াও সম্পন্ন করতে পারি।</p>
+            <h4 style="color:var(--maroon);font-size:1rem;margin-bottom:6px;" data-i18n="faq-q4">কত দিনে প্রক্রিয়া সম্পন্ন হয়?</h4>
+            <p style="font-size:.87rem;color:var(--gray);" data-i18n="faq-a4">সাধারণত বিশ্ববিদ্যালয়ের ডেডলাইনের উপর নির্ভর করে ৩-৬ মাস সময় লাগে। তবে জরুরি ক্ষেত্রে আমরা দ্রুত প্রক্রিয়াও সম্পন্ন করতে পারি।</p>
           </div>
         </div>
       </div>
@@ -276,8 +271,8 @@
     <h2 class="section-title" style="color:white;">দেরি না করে এখনই যোগাযোগ করুন</h2>
     <p class="section-sub" style="color:rgba(255,255,255,.8);">আমেরিকার শীর্ষ বিশ্ববিদ্যালয়ে ভর্তির সুযোগ সীমিত — আজই আপনার আবেদন প্রক্রিয়া শুরু করুন।</p>
     <div class="cta-btns">
-      <a href="https://wa.me/1234567890" target="_blank" class="btn btn-gold btn-lg"><i class="fab fa-whatsapp"></i> WhatsApp করুন</a>
-      <a href="tel:+15551234567" class="btn btn-outline-white btn-lg"><i class="fas fa-phone"></i> এখনই কল করুন</a>
+      <a href="https://wa.me/8801700000000" target="_blank" class="btn btn-gold btn-lg"><i class="fab fa-whatsapp"></i> <span data-i18n="contact-wa-btn">WhatsApp করুন</span></a>
+      <a href="tel:+8801700000000" class="btn btn-outline-white btn-lg"><i class="fas fa-phone"></i> <span data-i18n="contact-call-btn">এখনই কল করুন</span></a>
     </div>
   </div>
 </section>
@@ -302,6 +297,7 @@
           <a href="index.html"           data-i18n="nav-home">হোম</a>
           <a href="about.html"           data-i18n="nav-about">আমাদের সম্পর্কে</a>
           <a href="services.html"        data-i18n="nav-services">আমাদের সেবা</a>
+          <a href="pricing.html"         data-i18n="nav-pricing">মূল্য তালিকা</a>
           <a href="success-stories.html" data-i18n="nav-stories">সাফল্যের গল্প</a>
           <a href="contact.html"         data-i18n="nav-contact">যোগাযোগ</a>
         </div>
@@ -317,9 +313,8 @@
       </div>
       <div>
         <h4 class="footer-heading" data-i18n="foot-contact-h">যোগাযোগ</h4>
-        <div class="contact-line"><i class="fas fa-map-marker-alt"></i><span>123 Main Street, New York, NY 10001</span></div>
-        <div class="contact-line"><i class="fas fa-phone"></i><span>+1 (555) 123-4567</span></div>
-        <div class="contact-line"><i class="fas fa-envelope"></i><span>info@eduquestabroad.com</span></div>
+        <div class="contact-line"><i class="fas fa-phone"></i><span>+880 1700-000000</span></div>
+        <div class="contact-line"><i class="fas fa-envelope"></i><span>inquiry.eduquest@gmail.com</span></div>
       </div>
     </div>
     <div class="footer-bottom">
@@ -329,7 +324,7 @@
   </div>
 </footer>
 
-<a href="https://wa.me/1234567890" class="wa-float" target="_blank"><i class="fab fa-whatsapp"></i></a>
+<a href="https://wa.me/8801700000000" class="wa-float" target="_blank"><i class="fab fa-whatsapp"></i></a>
 <script src="assets/js/main.js"></script>
 </body>
 </html>

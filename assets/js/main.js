@@ -114,6 +114,191 @@ const t = {
     'foot-contact-h': 'যোগাযোগ',
     'foot-copy':      '© 2025 Edu Quest Abroad। সর্বস্বত্ব সংরক্ষিত।',
     'foot-made':      'ভালোবাসায় তৈরি বাংলাদেশের জন্য 🇧🇩',
+
+    /* PRICING NAV */
+    'nav-pricing':    'মূল্য তালিকা',
+
+    /* ABOUT PAGE */
+    'about-hero-title': 'আমাদের সম্পর্কে',
+    'about-hero-sub':   'বাংলাদেশী শিক্ষার্থীদের আমেরিকান স্বপ্ন পূরণে নিবেদিত একটি বিশ্বস্ত প্রতিষ্ঠান।',
+    'about-story-eye':  'আমাদের গল্প',
+    'about-story-title':'কীভাবে শুরু হয়েছিল Edu Quest Abroad',
+    'about-story-p1':   'Edu Quest Abroad প্রতিষ্ঠিত হয়েছিল একটি সহজ কিন্তু শক্তিশালী স্বপ্ন নিয়ে — প্রতিটি বাংলাদেশী মেধাবী শিক্ষার্থী যেন তাদের আমেরিকান স্বপ্ন পূরণ করতে পারে।',
+    'about-story-p2':   'আমাদের প্রতিষ্ঠাতা নিজে বাংলাদেশ থেকে যুক্তরাষ্ট্রে উচ্চশিক্ষার সংগ্রামের মধ্য দিয়ে গেছেন। সেই অভিজ্ঞতা থেকেই জন্ম হয়েছে এই প্রতিষ্ঠানের।',
+    'about-story-p3':   'গত ১০+ বছরে আমরা ৫০০-এর বেশি শিক্ষার্থীকে যুক্তরাষ্ট্রের শীর্ষ বিশ্ববিদ্যালয়ে ভর্তি করিয়েছি এবং ৯৮% ভিসা সাফল্যের হার বজায় রেখেছি।',
+    'about-cta-consult':'বিনামূল্যে পরামর্শ নিন',
+    'about-cta-services':'আমাদের সেবা দেখুন',
+    'about-mv-eye':     'আমাদের লক্ষ্য',
+    'about-mv-title':   'মিশন ও ভিশন',
+    'about-mission-h':  'আমাদের মিশন',
+    'about-mission-p':  'প্রতিটি বাংলাদেশী শিক্ষার্থীকে সর্বোচ্চ মানের এবং ব্যক্তিগতকৃত শিক্ষা পরামর্শ প্রদান করা, যাতে তারা যুক্তরাষ্ট্রের শীর্ষ বিশ্ববিদ্যালয়ে সফলভাবে ভর্তি হতে পারে।',
+    'about-vision-h':   'আমাদের ভিশন',
+    'about-vision-p':   'একটি এমন বিশ্ব গড়ে তোলা যেখানে বাংলাদেশের প্রতিটি মেধাবী শিক্ষার্থী আর্থিক বা তথ্যগত বাধা ছাড়াই আমেরিকার সেরা বিশ্ববিদ্যালয়গুলোতে পড়াশোনার সুযোগ পাবে।',
+    'about-values-eye': 'আমাদের মূল্যবোধ',
+    'about-values-title':'আমরা যা বিশ্বাস করি',
+    'about-val1-h':     'সততা ও বিশ্বস্ততা',
+    'about-val1-p':     'আমরা সবসময় স্বচ্ছ এবং সৎ পরামর্শ দিই। আপনার স্বার্থই আমাদের প্রথম অগ্রাধিকার।',
+    'about-val2-h':     'শ্রেষ্ঠত্ব',
+    'about-val2-p':     'আমরা প্রতিটি সেবায় সর্বোচ্চ মান বজায় রাখি এবং ক্রমাগত উন্নতির চেষ্টা করি।',
+    'about-val3-h':     'সহানুভূতি',
+    'about-val3-p':     'আমরা প্রতিটি শিক্ষার্থীর স্বপ্ন ও চ্যালেঞ্জ বুঝি এবং পরিবারের মতো সাপোর্ট দিই।',
+    'about-val4-h':     'ফলাফলমুখী',
+    'about-val4-p':     'আমরা ফলাফলে বিশ্বাসী। আমাদের ৯৮% সাফল্যের হারই আমাদের প্রতিশ্রুতির প্রমাণ।',
+    'about-team-eye':   'আমাদের টিম',
+    'about-team-title': 'আমাদের বিশেষজ্ঞ দল',
+    'about-team-sub':   'যুক্তরাষ্ট্রে উচ্চশিক্ষার গভীর অভিজ্ঞতাসম্পন্ন আমাদের বিশেষজ্ঞ টিমের সাথে পরিচিত হন।',
+    'about-cta-h2':     'আমাদের সাথে যোগাযোগ করুন',
+    'about-cta-p':      'আপনার স্বপ্নের বিশ্ববিদ্যালয়ে ভর্তির প্রথম পদক্ষেপ আজই নিন।',
+
+    /* SERVICES PAGE */
+    'svc-hero-sub':     'বিশ্ববিদ্যালয় ভর্তি থেকে ভিসা পর্যন্ত — প্রতিটি পদক্ষেপে আমরা আপনার সাথে।',
+    'svc-eye-01':       'সেবা ০১',
+    'svc-eye-02':       'সেবা ০২',
+    'svc-eye-03':       'সেবা ০৩',
+    'svc-eye-04':       'সেবা ০৪',
+    'svc-consult-btn':  'পরামর্শ নিন',
+    'svc-1-detail-p':   'আপনার একাডেমিক প্রোফাইল, GPA, GRE/GMAT স্কোর এবং ক্যারিয়ার লক্ষ্য বিশ্লেষণ করে আমরা আপনার জন্য সেরা বিশ্ববিদ্যালয় তালিকা তৈরি করি।',
+    'svc-1-li1':        'বিশ্ববিদ্যালয় গবেষণা ও নির্বাচন',
+    'svc-1-li2':        'আবেদনপত্র পূরণ ও জমা',
+    'svc-1-li3':        'রেকমেন্ডেশন লেটার গাইডেন্স',
+    'svc-1-li4':        'ডেডলাইন ট্র্যাকিং',
+    'svc-1-li5':        'অফার লেটার পর্যন্ত সম্পূর্ণ সাপোর্ট',
+    'svc-2-detail-p':   'F-1 স্টুডেন্ট ভিসার জন্য সম্পূর্ণ ডকুমেন্টেশন প্রস্তুতি থেকে শুরু করে ভিসা ইন্টারভিউ মক প্র্যাকটিস পর্যন্ত আমরা আপনাকে গাইড করব।',
+    'svc-2-li1':        'DS-160 ফর্ম পূরণ সহায়তা',
+    'svc-2-li2':        'I-20 যাচাইকরণ',
+    'svc-2-li3':        'আর্থিক ডকুমেন্ট প্রস্তুতি',
+    'svc-2-li4':        'মক ভিসা ইন্টারভিউ সেশন',
+    'svc-2-li5':        'SEVIS রেজিস্ট্রেশন গাইডেন্স',
+    'svc-3-detail-p':   'একটি শক্তিশালী Statement of Purpose আপনার ভর্তির সম্ভাবনা বহুগুণ বাড়িয়ে দেয়।',
+    'svc-3-li1':        'ব্যক্তিগতকৃত SOP লেখা',
+    'svc-3-li2':        'Personal Statement',
+    'svc-3-li3':        'Research Proposal',
+    'svc-3-li4':        'Cover Letter',
+    'svc-3-li5':        'সীমাহীন সংশোধন',
+    'svc-4-detail-p':   'আমরা আপনার একাডেমিক প্রোফাইল ও আর্থিক প্রয়োজন বিশ্লেষণ করে সেরা স্কলারশিপ সুযোগ চিহ্নিত করি।',
+    'svc-4-li1':        'মেধাভিত্তিক স্কলারশিপ অনুসন্ধান',
+    'svc-4-li2':        'ফুল-ফান্ডেড PhD সুযোগ',
+    'svc-4-li3':        'TA/RA পজিশন গাইডেন্স',
+    'svc-4-li4':        'স্কলারশিপ এসে লেখা',
+    'svc-4-li5':        'ফান্ডিং ডেডলাইন ট্র্যাকিং',
+    'svc-5-title':      'মক ভিসা ইন্টারভিউ কোচিং',
+    'svc-5-desc':       'ওয়ান-টু-ওয়ান মক ইন্টারভিউ, বিশেষজ্ঞ ফিডব্যাক ও আত্মবিশ্বাস গড়ে তোলার মাধ্যমে ভিসা ইন্টারভিউয়ের পূর্ণ প্রস্তুতি।',
+    'svc-5-link':       'মূল্য দেখুন →',
+
+    /* MOCK COACHING */
+    'mock-eye':         'সেবা ০৫',
+    'mock-title':       'মক ভিসা ইন্টারভিউ কোচিং',
+    'mock-sub':         'ভিসা ইন্টারভিউয়ে সাফল্যের জন্য ব্যক্তিগতকৃত প্রশিক্ষণ ও মক সেশন।',
+    'mock-oto-eye':     'ওয়ান-টু-ওয়ান কাউন্সেলিং',
+    'mock-oto-title':   'আপনি যা পাবেন',
+    'mock-li1':         'দৈনিক এক্সক্লুসিভ মক ইন্টারভিউ',
+    'mock-li2':         'পারফরম্যান্সে মূল্যবান ফিডব্যাক',
+    'mock-li3':         'সঠিক উত্তর সংশোধন',
+    'mock-li4':         'কথোপকথন দক্ষতা উন্নয়ন',
+    'mock-li5':         'ইন্টারভিউয়ারের সাথে সিমুলেটেড অনুশীলন',
+    'mock-li6':         'কার্যকর আই কনট্যাক্টের টিপস',
+    'mock-li7':         'আত্মবিশ্বাসের সাথে ইন্টারভিউয়ারকে সম্বোধন',
+    'mock-li8':         'ইতিবাচক বডি ল্যাঙ্গুয়েজ',
+    'mock-li9':         '২৪/৭ সমস্যা সমাধান সহায়তা',
+    'mock-li10':        'কাস্টমাইজড Q&A সেশন',
+    'mock-pricing-btn': 'মূল্য দেখুন',
+    'batch-special-title': 'Special Batch',
+    'batch-special-sub':   'প্রিমিয়াম পার্সোনালাইজড প্যাকেজ',
+    'batch-sp-li1':     'Personal Mentor',
+    'batch-sp-li2':     'Answer Making সহায়তা',
+    'batch-sp-li3':     'DS-160 Review',
+    'batch-sp-li4':     'ইন্টারভিউ তারিখ পর্যন্ত Mock Practice',
+    'batch-sp-li5':     'ICU — ইন্টারভিউর ১৫ দিন আগে দিনে ৩-৪টি মক ইন্টারভিউ',
+    'batch-contact-btn':'যোগাযোগ করুন',
+    'batch-regular-title': 'Regular Batch',
+    'batch-regular-sub':   'সাশ্রয়ী মূল্যে নিয়মিত অনুশীলন',
+    'batch-reg-li1':    'সপ্তাহে ৬ দিন Mock Practice',
+    'batch-reg-li2':    'বিশেষজ্ঞ Feedback',
+    'batch-reg-li3':    'পেশাদার Guidance',
+    'batch-reg-li4':    'Mock Test ও ফলাফল বিশ্লেষণ',
+    'batch-pricing-btn':'মূল্য দেখুন',
+
+    /* CONTACT PAGE */
+    'contact-hero-sub':  'আপনার স্বপ্নের যাত্রা শুরু হোক একটি কথোপকথন দিয়ে — বিনামূল্যে।',
+    'contact-info-eye':  'আমাদের সাথে কথা বলুন',
+    'contact-info-h3':   'আপনার স্বপ্নের পথে প্রথম পদক্ষেপ নিন',
+    'contact-info-p':    'আমাদের অভিজ্ঞ পরামর্শদাতারা আপনার প্রশ্নের উত্তর দিতে এবং আপনার জন্য সেরা পথ নির্ধারণ করতে প্রস্তুত। প্রথম পরামর্শটি সম্পূর্ণ বিনামূল্যে।',
+    'contact-phone-h':   'ফোন নম্বর',
+    'contact-bd-label':  '(বাংলাদেশ)',
+    'contact-email-h':   'ইমেইল',
+    'contact-wa-chat':   'সরাসরি চ্যাট করুন',
+    'contact-hours-h':   'অফিস সময়',
+    'contact-hours-p':   'সোম — শুক্র: সকাল ৯টা — রাত ৯টা\nশনি: সকাল ১০টা — বিকাল ৬টা',
+    'contact-form-h':    '📅 বিনামূল্যে পরামর্শ বুক করুন',
+    'contact-wa-btn':    'WhatsApp করুন',
+    'contact-call-btn':  'এখনই কল করুন',
+    'form-name-label':   'আপনার নাম *',
+    'form-name-ph':      'পুরো নাম লিখুন',
+    'form-email-label':  'ইমেইল *',
+    'form-phone-label':  'ফোন নম্বর *',
+    'form-interest-label':'আপনি কীসের জন্য আগ্রহী?',
+    'form-select-default':'নির্বাচন করুন',
+    'form-general-consult':'সাধারণ পরামর্শ',
+    'form-edu-label':    'আপনার শিক্ষাগত যোগ্যতা',
+    'form-undergrad-ongoing':'স্নাতক (অধ্যয়নরত)',
+    'form-undergrad-done':'স্নাতক (সম্পন্ন)',
+    'form-masters':      'স্নাতকোত্তর',
+    'form-target-label': 'আপনার লক্ষ্য বিশ্ববিদ্যালয় বা রাজ্য (ঐচ্ছিক)',
+    'form-target-ph':    'যেমন: University of Michigan, New York...',
+    'form-msg-label':    'আপনার বার্তা *',
+    'form-msg-ph':       'আপনার প্রশ্ন বা প্রয়োজনীয়তা বিস্তারিত লিখুন...',
+    'form-submit-btn':   'বার্তা পাঠান',
+    'form-success-msg':  'আপনার বার্তা সফলভাবে পাঠানো হয়েছে! আমরা ২৪ ঘণ্টার মধ্যে যোগাযোগ করব।',
+
+    /* SUCCESS STORIES PAGE */
+    'stories-hero-sub':  'শত শত বাংলাদেশী শিক্ষার্থী যারা আমাদের সাথে তাদের আমেরিকান স্বপ্ন পূরণ করেছেন।',
+    'stories-eye':       'আমাদের শিক্ষার্থীরা',
+    'stories-grid-sub':  'প্রতিটি গল্প একটি স্বপ্নের, একটি সংগ্রামের এবং একটি সাফল্যের।',
+    'stories-vid-eye':   'ভিডিও গল্প',
+    'stories-vid-title': 'ভিডিও সাক্ষাৎকার শীঘ্রই আসছে',
+    'stories-vid-sub':   'আমাদের শিক্ষার্থীদের ভিডিও সাক্ষাৎকার খুব শীঘ্রই যোগ করা হবে। এর মধ্যে তাদের লেখা পড়ুন।',
+    'stories-vid-testimonial': 'ভিডিও টেস্টিমোনিয়াল',
+    'stories-vid-coming': 'আমাদের সাফল্যের গল্পগুলো শীঘ্রই ভিডিও ফর্ম্যাটে পাওয়া যাবে।',
+
+    /* TOP STATES PAGE */
+    'states-hero-sub':   'বাংলাদেশী শিক্ষার্থীদের পছন্দের শীর্ষ আমেরিকান রাজ্যগুলো আবিষ্কার করুন।',
+    'states-detail-eye': 'গন্তব্য বেছে নিন',
+
+    /* PRICING PAGE */
+    'pricing-hero-title':'সার্ভিস মূল্য তালিকা',
+    'pricing-hero-sub':  'স্বচ্ছ মূল্যে সর্বোচ্চ মানের সেবা',
+    'pricing-oto-eye':   'ওয়ান-টু-ওয়ান কাউন্সেলিং',
+    'pricing-oto-title': 'ব্যক্তিগত কোচিং প্যাকেজ',
+    'pricing-oto-sub':   'প্রতিটি সেশনে ব্যক্তিগত মনোযোগ ও পেশাদার গাইডেন্স।',
+    'pricing-special-eye':'প্রিমিয়াম',
+    'pricing-special-title':'Special Batch',
+    'pricing-regular-eye':'নিয়মিত',
+    'pricing-regular-title':'Regular Batch',
+    'pricing-what-eye':  'সম্পূর্ণ প্যাকেজ',
+    'pricing-what-title':'আমরা যা অফার করি',
+    'pricing-cta-title': 'বিনামূল্যে পরামর্শ নিন',
+    'pricing-cta-btn':   '📅 বিনামূল্যে পরামর্শ নিন',
+    'pricing-contact-price': 'যোগাযোগ করুন',
+
+    /* FAQ */
+    'faq-eye':  'সাধারণ প্রশ্নাবলী',
+    'faq-title':'প্রায়ই জিজ্ঞাসিত প্রশ্ন',
+    'faq-q1':   'প্রথম পরামর্শ কি সত্যিই বিনামূল্যে?',
+    'faq-a1':   'হ্যাঁ, আমাদের প্রাথমিক পরামর্শ সেশনটি সম্পূর্ণ বিনামূল্যে। এতে আপনার প্রোফাইল মূল্যায়ন, বিশ্ববিদ্যালয় পরামর্শ এবং রোডম্যাপ আলোচনা অন্তর্ভুক্ত।',
+    'faq-q2':   'আমি কি অনলাইনে পরামর্শ নিতে পারব?',
+    'faq-a2':   'অবশ্যই! আমরা Zoom, Google Meet বা WhatsApp ভিডিও কলের মাধ্যমে অনলাইন পরামর্শ দিই।',
+    'faq-q3':   'ভিসা রিজেকশন হলে কি হবে?',
+    'faq-a3':   'আমাদের ৯৮% ভিসা সাফল্যের হার রয়েছে। তবে রিজেকশন হলে আমরা বিনামূল্যে পুনরায় আবেদনে সহায়তা করব।',
+    'faq-q4':   'কত দিনে প্রক্রিয়া সম্পন্ন হয়?',
+    'faq-a4':   'সাধারণত ৩-৬ মাস সময় লাগে। জরুরি ক্ষেত্রে দ্রুত প্রক্রিয়াও সম্পন্ন করা যায়।',
+
+    /* DUOLINGO POPUP */
+    'duolingo-btn':      '🦉 Duolingo সম্পর্কে জানুন',
+    'duolingo-title':    'Duolingo English Test',
+    'duolingo-sub':      'সহজ পথে ইংরেজি দক্ষতা প্রমাণ করুন',
+
+    /* HOME HERO */
+    'sec-cta-btn-pricing': '💰 মূল্য দেখুন',
   },
 
   en: {
@@ -215,6 +400,191 @@ const t = {
     'foot-contact-h': 'Contact',
     'foot-copy':      '© 2025 Edu Quest Abroad. All Rights Reserved.',
     'foot-made':      'Made with love for Bangladesh 🇧🇩',
+
+    /* PRICING NAV */
+    'nav-pricing':    'Pricing',
+
+    /* ABOUT PAGE */
+    'about-hero-title': 'About Us',
+    'about-hero-sub':   'A trusted institution dedicated to fulfilling the American dreams of Bangladeshi students.',
+    'about-story-eye':  'Our Story',
+    'about-story-title':'How Edu Quest Abroad Began',
+    'about-story-p1':   'Edu Quest Abroad was founded with a simple but powerful dream — that every talented Bangladeshi student should be able to fulfill their American dream.',
+    'about-story-p2':   'Our founder personally went through the struggle of pursuing higher education in the USA from Bangladesh. That experience gave birth to this institution.',
+    'about-story-p3':   'Over the past 10+ years, we have helped 500+ students gain admission to top US universities while maintaining a 98% visa success rate.',
+    'about-cta-consult':'Get Free Consultation',
+    'about-cta-services':'View Our Services',
+    'about-mv-eye':     'Our Goals',
+    'about-mv-title':   'Mission & Vision',
+    'about-mission-h':  'Our Mission',
+    'about-mission-p':  'To provide the highest quality and personalized education consulting to every Bangladeshi student so they can successfully gain admission to top US universities.',
+    'about-vision-h':   'Our Vision',
+    'about-vision-p':   'To build a world where every talented Bangladeshi student has the opportunity to study at the best American universities without financial or informational barriers.',
+    'about-values-eye': 'Our Values',
+    'about-values-title':'What We Believe In',
+    'about-val1-h':     'Integrity & Trust',
+    'about-val1-p':     'We always provide transparent and honest advice. Your interest is our top priority.',
+    'about-val2-h':     'Excellence',
+    'about-val2-p':     'We maintain the highest standards in every service and continuously strive to improve.',
+    'about-val3-h':     'Empathy',
+    'about-val3-p':     'We understand every student\'s dreams and challenges, and support them like family.',
+    'about-val4-h':     'Results-Driven',
+    'about-val4-p':     'We believe in results. Our 98% success rate is proof of our commitment.',
+    'about-team-eye':   'Our Team',
+    'about-team-title': 'Our Expert Team',
+    'about-team-sub':   'Meet our expert team with deep experience in US higher education.',
+    'about-cta-h2':     'Contact Us',
+    'about-cta-p':      'Take the first step towards admission to your dream university today.',
+
+    /* SERVICES PAGE */
+    'svc-hero-sub':     'From university admissions to visa approvals — we are with you at every step.',
+    'svc-eye-01':       'Service 01',
+    'svc-eye-02':       'Service 02',
+    'svc-eye-03':       'Service 03',
+    'svc-eye-04':       'Service 04',
+    'svc-consult-btn':  'Get Consultation',
+    'svc-1-detail-p':   'We analyze your academic profile, GPA, GRE/GMAT scores, and career goals to build the best university list and manage the complete application process.',
+    'svc-1-li1':        'University research & selection',
+    'svc-1-li2':        'Application filling & submission',
+    'svc-1-li3':        'Recommendation letter guidance',
+    'svc-1-li4':        'Deadline tracking',
+    'svc-1-li5':        'Complete support until offer letter',
+    'svc-2-detail-p':   'We guide you through every step from complete F-1 student visa documentation to mock visa interview practice.',
+    'svc-2-li1':        'DS-160 form filling assistance',
+    'svc-2-li2':        'I-20 verification',
+    'svc-2-li3':        'Financial document preparation',
+    'svc-2-li4':        'Mock visa interview sessions',
+    'svc-2-li5':        'SEVIS registration guidance',
+    'svc-3-detail-p':   'A powerful Statement of Purpose dramatically improves your admission chances. Our expert writers will tell your story in a way that impresses the admission committee.',
+    'svc-3-li1':        'Personalized SOP writing',
+    'svc-3-li2':        'Personal Statement',
+    'svc-3-li3':        'Research Proposal',
+    'svc-3-li4':        'Cover Letter',
+    'svc-3-li5':        'Unlimited revisions',
+    'svc-4-detail-p':   'We analyze your academic profile and financial needs to identify the best scholarship opportunities and guide you to successful applications.',
+    'svc-4-li1':        'Merit-based scholarship search',
+    'svc-4-li2':        'Fully-funded PhD opportunities',
+    'svc-4-li3':        'TA/RA position guidance',
+    'svc-4-li4':        'Scholarship essay writing',
+    'svc-4-li5':        'Funding deadline tracking',
+    'svc-5-title':      'Mock Visa Interview Coaching',
+    'svc-5-desc':       'Full visa interview preparation through one-to-one mock interviews, expert feedback, and confidence building.',
+    'svc-5-link':       'See Pricing →',
+
+    /* MOCK COACHING */
+    'mock-eye':         'Service 05',
+    'mock-title':       'Mock Visa Interview Coaching',
+    'mock-sub':         'Personalized training and mock sessions for visa interview success.',
+    'mock-oto-eye':     'One-to-One Counseling',
+    'mock-oto-title':   'What You Get',
+    'mock-li1':         'Daily exclusive mock interviews',
+    'mock-li2':         'Valuable performance feedback',
+    'mock-li3':         'Precise answer corrections',
+    'mock-li4':         'Conversational skills enhancement',
+    'mock-li5':         'Simulated interviewer interaction',
+    'mock-li6':         'Effective eye contact tips',
+    'mock-li7':         'Confident addressing of the interviewer',
+    'mock-li8':         'Positive body language',
+    'mock-li9':         '24/7 problem-solving support',
+    'mock-li10':        'Customized Q&A sessions',
+    'mock-pricing-btn': 'See Pricing',
+    'batch-special-title': 'Special Batch',
+    'batch-special-sub':   'Premium personalized package',
+    'batch-sp-li1':     'Personal Mentor',
+    'batch-sp-li2':     'Answer Making assistance',
+    'batch-sp-li3':     'DS-160 Review',
+    'batch-sp-li4':     'Mock Practice until interview date',
+    'batch-sp-li5':     'ICU — 3-4 mock interviews/day, 15 days before interview',
+    'batch-contact-btn':'Contact Us',
+    'batch-regular-title': 'Regular Batch',
+    'batch-regular-sub':   'Affordable regular practice',
+    'batch-reg-li1':    '6 days mock practice/week',
+    'batch-reg-li2':    'Expert Feedback',
+    'batch-reg-li3':    'Professional Guidance',
+    'batch-reg-li4':    'Mock Test & result analysis',
+    'batch-pricing-btn':'See Pricing',
+
+    /* CONTACT PAGE */
+    'contact-hero-sub':  'Let your dream journey begin with a conversation — for free.',
+    'contact-info-eye':  'Talk to Us',
+    'contact-info-h3':   'Take the First Step Towards Your Dream',
+    'contact-info-p':    'Our experienced consultants are ready to answer your questions and determine the best path for you. The first consultation is completely free.',
+    'contact-phone-h':   'Phone Number',
+    'contact-bd-label':  '(Bangladesh)',
+    'contact-email-h':   'Email',
+    'contact-wa-chat':   'Chat directly',
+    'contact-hours-h':   'Office Hours',
+    'contact-hours-p':   'Mon — Fri: 9 AM — 9 PM\nSat: 10 AM — 6 PM',
+    'contact-form-h':    '📅 Book Free Consultation',
+    'contact-wa-btn':    'WhatsApp Us',
+    'contact-call-btn':  'Call Now',
+    'form-name-label':   'Your Name *',
+    'form-name-ph':      'Enter full name',
+    'form-email-label':  'Email *',
+    'form-phone-label':  'Phone Number *',
+    'form-interest-label':'What are you interested in?',
+    'form-select-default':'Select',
+    'form-general-consult':'General Consultation',
+    'form-edu-label':    'Your Educational Qualification',
+    'form-undergrad-ongoing':'Undergraduate (Ongoing)',
+    'form-undergrad-done':'Undergraduate (Completed)',
+    'form-masters':      'Postgraduate',
+    'form-target-label': 'Target University or State (Optional)',
+    'form-target-ph':    'e.g., University of Michigan, New York...',
+    'form-msg-label':    'Your Message *',
+    'form-msg-ph':       'Please describe your questions or requirements in detail...',
+    'form-submit-btn':   'Send Message',
+    'form-success-msg':  'Your message has been sent successfully! We will contact you within 24 hours.',
+
+    /* SUCCESS STORIES PAGE */
+    'stories-hero-sub':  'Hundreds of Bangladeshi students who fulfilled their American dreams with us.',
+    'stories-eye':       'Our Students',
+    'stories-grid-sub':  'Every story is a dream, a struggle, and a success.',
+    'stories-vid-eye':   'Video Stories',
+    'stories-vid-title': 'Video Interviews Coming Soon',
+    'stories-vid-sub':   'Video interviews of our students will be added very soon. In the meantime, read their written stories.',
+    'stories-vid-testimonial': 'Video Testimonials',
+    'stories-vid-coming': 'Our success stories will soon be available in video format.',
+
+    /* TOP STATES PAGE */
+    'states-hero-sub':   'Discover the top American states preferred by Bangladeshi students.',
+    'states-detail-eye': 'Choose Your Destination',
+
+    /* PRICING PAGE */
+    'pricing-hero-title':'Service Pricing',
+    'pricing-hero-sub':  'Top quality services at transparent prices',
+    'pricing-oto-eye':   'One-to-One Counseling',
+    'pricing-oto-title': 'Personal Coaching Packages',
+    'pricing-oto-sub':   'Personal attention and professional guidance in every session.',
+    'pricing-special-eye':'Premium',
+    'pricing-special-title':'Special Batch',
+    'pricing-regular-eye':'Regular',
+    'pricing-regular-title':'Regular Batch',
+    'pricing-what-eye':  'Complete Package',
+    'pricing-what-title':'What We Offer',
+    'pricing-cta-title': 'Get Free Consultation',
+    'pricing-cta-btn':   '📅 Book Free Consultation',
+    'pricing-contact-price': 'Contact Us',
+
+    /* FAQ */
+    'faq-eye':  'Common Questions',
+    'faq-title':'Frequently Asked Questions',
+    'faq-q1':   'Is the first consultation really free?',
+    'faq-a1':   'Yes, our initial consultation session is completely free. It includes profile evaluation, university recommendations, and roadmap discussion.',
+    'faq-q2':   'Can I get consultation online?',
+    'faq-a2':   'Of course! We provide online consultations via Zoom, Google Meet, or WhatsApp video call.',
+    'faq-q3':   'What happens if the visa is rejected?',
+    'faq-a3':   'We have a 98% visa success rate. However, if rejection occurs for any reason, we will assist with re-application free of charge.',
+    'faq-q4':   'How long does the process take?',
+    'faq-a4':   'It generally takes 3-6 months depending on university deadlines. In urgent cases, we can complete the process faster.',
+
+    /* DUOLINGO POPUP */
+    'duolingo-btn':      '🦉 Learn about Duolingo',
+    'duolingo-title':    'Duolingo English Test',
+    'duolingo-sub':      'Prove your English proficiency the easy way',
+
+    /* HOME HERO */
+    'sec-cta-btn-pricing': '💰 See Pricing',
   }
 };
 
@@ -513,3 +883,83 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
   new HeroCanvas('hero-canvas');
 });
+
+/* ─── DUOLINGO POPUP ──────────────────────────────────────── */
+(function() {
+  const POPUP_HTML = `
+  <div id="duolingo-popup-overlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:9999;align-items:center;justify-content:center;">
+    <div id="duolingo-popup" role="dialog" aria-modal="true" style="background:white;border-radius:24px;max-width:520px;width:92%;padding:40px 36px;position:relative;box-shadow:0 24px 80px rgba(0,0,0,.28);animation:duoFadeIn .35s ease;">
+      <button id="duolingo-close" aria-label="Close" style="position:absolute;top:16px;right:20px;font-size:1.4rem;background:none;border:none;cursor:pointer;color:#777;line-height:1;">✕</button>
+      <div style="text-align:center;margin-bottom:24px;">
+        <div style="font-size:3.2rem;margin-bottom:10px;">🦉</div>
+        <h2 id="duo-popup-title" style="font-size:1.45rem;font-weight:800;color:#6A0032;margin-bottom:6px;">Duolingo English Test</h2>
+        <p id="duo-popup-sub" style="color:#555;font-size:.92rem;">সহজ পথে ইংরেজি দক্ষতা প্রমাণ করুন</p>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:14px;margin-bottom:28px;">
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">⏱️</span>
+          <div><strong style="color:#6A0032;">কম সময়সাপেক্ষ</strong><br/><span style="color:#666;font-size:.87rem;">IELTS-এর তুলনায় মাত্র ১ ঘণ্টায় পরীক্ষা সম্পন্ন হয়।</span></div>
+        </div>
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">✅</span>
+          <div><strong style="color:#6A0032;">IELTS-এর চেয়ে সহজ</strong><br/><span style="color:#666;font-size:.87rem;">প্রস্তুতি সহজ এবং পরীক্ষার ধাঁচ সহজবোধ্য।</span></div>
+        </div>
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">📚</span>
+          <div><strong style="color:#6A0032;">সহজ প্রস্তুতি</strong><br/><span style="color:#666;font-size:.87rem;">বিনামূল্যে অনুশীলন ম্যাটেরিয়াল ও স্যাম্পল প্রশ্ন পাওয়া যায়।</span></div>
+        </div>
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">🏠</span>
+          <div><strong style="color:#6A0032;">ঘরে বসে পরীক্ষা দিন</strong><br/><span style="color:#666;font-size:.87rem;">যেকোনো কম্পিউটার ও ওয়েবক্যাম দিয়ে ঘরে বসেই পরীক্ষা দেওয়া যায়।</span></div>
+        </div>
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">⚡</span>
+          <div><strong style="color:#6A0032;">দ্রুত ফলাফল</strong><br/><span style="color:#666;font-size:.87rem;">মাত্র ২ দিনের মধ্যে ফলাফল পাওয়া যায়।</span></div>
+        </div>
+        <div style="display:flex;gap:14px;align-items:flex-start;">
+          <span style="font-size:1.3rem;flex-shrink:0;">🎓</span>
+          <div><strong style="color:#6A0032;">US বিশ্ববিদ্যালয়ে গ্রহণযোগ্য</strong><br/><span style="color:#666;font-size:.87rem;">৫,০০০-এর বেশি বিশ্ববিদ্যালয় ও প্রোগ্রাম Duolingo English Test স্কোর গ্রহণ করে।</span></div>
+        </div>
+      </div>
+      <div style="text-align:center;">
+        <a href="contact.html" class="btn btn-gold btn-lg" style="margin-right:10px;display:inline-flex;align-items:center;gap:8px;" id="duo-cta-btn">📅 আরো জানুন</a>
+      </div>
+    </div>
+  </div>`;
+
+  document.addEventListener('DOMContentLoaded', () => {
+    /* Inject popup HTML */
+    document.body.insertAdjacentHTML('beforeend', POPUP_HTML);
+
+    /* Inject floating trigger button */
+    const triggerBtn = document.createElement('button');
+    triggerBtn.id = 'duolingo-trigger';
+    triggerBtn.className = 'duolingo-float-btn';
+    triggerBtn.setAttribute('data-i18n', 'duolingo-btn');
+    triggerBtn.innerHTML = '🦉 <span>Duolingo</span>';
+    document.body.appendChild(triggerBtn);
+
+    const overlay = document.getElementById('duolingo-popup-overlay');
+    const closeBtn = document.getElementById('duolingo-close');
+
+    function openPopup() {
+      overlay.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+    function closePopup() {
+      overlay.style.display = 'none';
+      document.body.style.overflow = '';
+      sessionStorage.setItem('eqa-duo-seen', '1');
+    }
+
+    triggerBtn.addEventListener('click', openPopup);
+    closeBtn.addEventListener('click', closePopup);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) closePopup(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePopup(); });
+
+    /* Auto-show once per session (after 8s) */
+    if (!sessionStorage.getItem('eqa-duo-seen')) {
+      setTimeout(openPopup, 8000);
+    }
+  });
+})();
