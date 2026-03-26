@@ -163,13 +163,13 @@ const t = {
     'svc-1-li3':        'রেকমেন্ডেশন লেটার গাইডেন্স',
     'svc-1-li4':        'ডেডলাইন ট্র্যাকিং',
     'svc-1-li5':        'অফার লেটার পর্যন্ত সম্পূর্ণ সাপোর্ট',
-    'svc-2-detail-p':   'F-1 স্টুডেন্ট ভিসার জন্য সম্পূর্ণ ডকুমেন্টেশন প্রস্তুতি থেকে শুরু করে ভিসা ইন্টারভিউ মক প্র্যাকটিস পর্যন্ত আমরা আপনাকে গাইড করব।',
+    'svc-2-detail-p':   'সঠিক আর্থিক কাগজপত্র সংগ্রহ থেকে DS-160 ফর্ম নির্ভুলভাবে পূরণ পর্যন্ত — ভিসার প্রতিটি ধাপে আমরা আপনার পাশে আছি। আমাদের A-to-Z ভিসা ফাইল প্রস্তুতি সেবায় কোনো ভুল নেই, কোনো চিন্তা নেই।',
     'svc-2-li1':        'DS-160 ফর্ম পূরণ সহায়তা',
     'svc-2-li2':        'I-20 যাচাইকরণ',
     'svc-2-li3':        'আর্থিক ডকুমেন্ট প্রস্তুতি',
     'svc-2-li4':        'মক ভিসা ইন্টারভিউ সেশন',
     'svc-2-li5':        'SEVIS রেজিস্ট্রেশন গাইডেন্স',
-    'svc-3-detail-p':   'একটি শক্তিশালী Statement of Purpose আপনার ভর্তির সম্ভাবনা বহুগুণ বাড়িয়ে দেয়।',
+    'svc-3-detail-p':   'আপনার জীবনের গল্পটা অ্যাডমিশন বোর্ডের সামনে নিখুঁতভাবে তুলে ধরুন। আমরা আপনাকে এমন একটি Statement of Purpose লিখতে সাহায্য করব যা হাজারো আবেদনের মাঝে আলাদাভাবে জ্বলে উঠবে।',
     'svc-3-li1':        'ব্যক্তিগতকৃত SOP লেখা',
     'svc-3-li2':        'Personal Statement',
     'svc-3-li3':        'Research Proposal',
@@ -296,6 +296,14 @@ const t = {
     'duolingo-btn':      '🦉 Duolingo সম্পর্কে জানুন',
     'duolingo-title':    'Duolingo English Test',
     'duolingo-sub':      'সহজ পথে ইংরেজি দক্ষতা প্রমাণ করুন',
+
+    /* DUOLINGO SERVICE HIGHLIGHT */
+    'duo-svc-title':  'Duolingo Practice Sessions & Guidance',
+    'duo-svc-p':      'IELTS-এর ভয়ে আপনার স্বপ্ন থামিয়ে রাখবেন না! অনেকেই জানেন না যে Duolingo English Test (DET) — IELTS-এর চেয়ে সস্তা, দ্রুত, এবং ঘরে বসেই দেওয়া যায়। বহু আমেরিকান বিশ্ববিদ্যালয় এটি সানন্দে গ্রহণ করে। আমরা আপনাকে গাইড করব কোন বিশ্ববিদ্যালয়গুলো Duolingo নেয় এবং আমাদের প্র্যাকটিস সেশনের মাধ্যমে আপনার সাফল্য নিশ্চিত করব।',
+    'duo-svc-btn':    'জানুন কোন বিশ্ববিদ্যালয় Duolingo নেয় →',
+
+    /* MOCK COACHING - updated */
+    'mock-oto-p':     'ভিসা অফিসারের সামনে দাঁড়ানোর ভয় কাটিয়ে উঠুন। আমাদের ওয়ান-টু-ওয়ান মক সেশনে আমরা আপনাকে আত্মবিশ্বাসী করে তুলব — বিশেষজ্ঞ ফিডব্যাক ও সিমুলেটেড প্র্যাকটিসের মাধ্যমে আপনার ভিসা অনুমোদন নিশ্চিত করতে আমরা প্রতিশ্রুতিবদ্ধ।',
 
     /* HOME HERO */
     'sec-cta-btn-pricing': '💰 মূল্য দেখুন',
@@ -582,6 +590,18 @@ const t = {
     'duolingo-btn':      '🦉 Learn about Duolingo',
     'duolingo-title':    'Duolingo English Test',
     'duolingo-sub':      'Prove your English proficiency the easy way',
+
+    /* DUOLINGO SERVICE HIGHLIGHT */
+    'duo-svc-title':  'Duolingo Practice Sessions & Guidance',
+    'duo-svc-p':      'Don\'t let IELTS hold back your dreams! Many students don\'t realize that the Duolingo English Test (DET) is cheaper, faster, and can be taken from home — and many American universities happily accept it. We\'ll guide you on which universities accept Duolingo and ensure your success through our dedicated practice sessions.',
+    'duo-svc-btn':    'Find Out Which Universities Accept Duolingo →',
+
+    /* MOCK COACHING - updated */
+    'mock-oto-p':     'Overcome the fear of facing the visa officer. Our one-to-one mock sessions are designed to build your confidence — through expert feedback and simulated practice, we are committed to ensuring your visa approval.',
+
+    /* SERVICES - updated copy */
+    'svc-2-detail-p': 'From gathering the right financial documents to accurately filling out the DS-160 form — we guide you through every step of your visa application. Our A-to-Z visa file preparation service means no mistakes, no stress.',
+    'svc-3-detail-p': 'Present your life story perfectly to the admission board. We help you write a Statement of Purpose that stands out from thousands of applications and dramatically increases your chances of admission.',
 
     /* HOME HERO */
     'sec-cta-btn-pricing': '💰 See Pricing',
@@ -884,82 +904,3 @@ document.addEventListener('DOMContentLoaded', () => {
   new HeroCanvas('hero-canvas');
 });
 
-/* ─── DUOLINGO POPUP ──────────────────────────────────────── */
-(function() {
-  const POPUP_HTML = `
-  <div id="duolingo-popup-overlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:9999;align-items:center;justify-content:center;">
-    <div id="duolingo-popup" role="dialog" aria-modal="true" style="background:white;border-radius:24px;max-width:520px;width:92%;padding:40px 36px;position:relative;box-shadow:0 24px 80px rgba(0,0,0,.28);animation:duoFadeIn .35s ease;">
-      <button id="duolingo-close" aria-label="Close" style="position:absolute;top:16px;right:20px;font-size:1.4rem;background:none;border:none;cursor:pointer;color:#777;line-height:1;">✕</button>
-      <div style="text-align:center;margin-bottom:24px;">
-        <div style="font-size:3.2rem;margin-bottom:10px;">🦉</div>
-        <h2 id="duo-popup-title" style="font-size:1.45rem;font-weight:800;color:#6A0032;margin-bottom:6px;">Duolingo English Test</h2>
-        <p id="duo-popup-sub" style="color:#555;font-size:.92rem;">সহজ পথে ইংরেজি দক্ষতা প্রমাণ করুন</p>
-      </div>
-      <div style="display:flex;flex-direction:column;gap:14px;margin-bottom:28px;">
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">⏱️</span>
-          <div><strong style="color:#6A0032;">কম সময়সাপেক্ষ</strong><br/><span style="color:#666;font-size:.87rem;">IELTS-এর তুলনায় মাত্র ১ ঘণ্টায় পরীক্ষা সম্পন্ন হয়।</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">✅</span>
-          <div><strong style="color:#6A0032;">IELTS-এর চেয়ে সহজ</strong><br/><span style="color:#666;font-size:.87rem;">প্রস্তুতি সহজ এবং পরীক্ষার ধাঁচ সহজবোধ্য।</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">📚</span>
-          <div><strong style="color:#6A0032;">সহজ প্রস্তুতি</strong><br/><span style="color:#666;font-size:.87rem;">বিনামূল্যে অনুশীলন ম্যাটেরিয়াল ও স্যাম্পল প্রশ্ন পাওয়া যায়।</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">🏠</span>
-          <div><strong style="color:#6A0032;">ঘরে বসে পরীক্ষা দিন</strong><br/><span style="color:#666;font-size:.87rem;">যেকোনো কম্পিউটার ও ওয়েবক্যাম দিয়ে ঘরে বসেই পরীক্ষা দেওয়া যায়।</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">⚡</span>
-          <div><strong style="color:#6A0032;">দ্রুত ফলাফল</strong><br/><span style="color:#666;font-size:.87rem;">মাত্র ২ দিনের মধ্যে ফলাফল পাওয়া যায়।</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:flex-start;">
-          <span style="font-size:1.3rem;flex-shrink:0;">🎓</span>
-          <div><strong style="color:#6A0032;">US বিশ্ববিদ্যালয়ে গ্রহণযোগ্য</strong><br/><span style="color:#666;font-size:.87rem;">৫,০০০-এর বেশি বিশ্ববিদ্যালয় ও প্রোগ্রাম Duolingo English Test স্কোর গ্রহণ করে।</span></div>
-        </div>
-      </div>
-      <div style="text-align:center;">
-        <a href="contact.html" class="btn btn-gold btn-lg" style="margin-right:10px;display:inline-flex;align-items:center;gap:8px;" id="duo-cta-btn">📅 আরো জানুন</a>
-      </div>
-    </div>
-  </div>`;
-
-  document.addEventListener('DOMContentLoaded', () => {
-    /* Inject popup HTML */
-    document.body.insertAdjacentHTML('beforeend', POPUP_HTML);
-
-    /* Inject floating trigger button */
-    const triggerBtn = document.createElement('button');
-    triggerBtn.id = 'duolingo-trigger';
-    triggerBtn.className = 'duolingo-float-btn';
-    triggerBtn.setAttribute('data-i18n', 'duolingo-btn');
-    triggerBtn.innerHTML = '🦉 <span>Duolingo</span>';
-    document.body.appendChild(triggerBtn);
-
-    const overlay = document.getElementById('duolingo-popup-overlay');
-    const closeBtn = document.getElementById('duolingo-close');
-
-    function openPopup() {
-      overlay.style.display = 'flex';
-      document.body.style.overflow = 'hidden';
-    }
-    function closePopup() {
-      overlay.style.display = 'none';
-      document.body.style.overflow = '';
-      sessionStorage.setItem('eqa-duo-seen', '1');
-    }
-
-    triggerBtn.addEventListener('click', openPopup);
-    closeBtn.addEventListener('click', closePopup);
-    overlay.addEventListener('click', (e) => { if (e.target === overlay) closePopup(); });
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePopup(); });
-
-    /* Auto-show once per session (after 8s) */
-    if (!sessionStorage.getItem('eqa-duo-seen')) {
-      setTimeout(openPopup, 8000);
-    }
-  });
-})();
